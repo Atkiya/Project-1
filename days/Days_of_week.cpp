@@ -1,3 +1,11 @@
+/*Input format-
+ Month date,year
+ Or,
+ MM/DD/YYYY
+ For example-
+ July 14,2019
+ 07/14/2019
+*/
 #include <iostream>
 #include <cmath>
 using namespace std;
